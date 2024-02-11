@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Ala Tak, a Computer Science Ph.D. student at the University of Southern California with a passion for the world of affective computing, artificial intelligence, and natural language processing. 
+Hi there! I'm Ala Nekouvaght Tak, a Computer Science Ph.D. student at the University of Southern California with a passion for the world of affective computing, artificial intelligence, and natural language processing. 
 
 I am currently focusing on enhancing emotional reasoning in AI. My work leverages a broad spectrum of frameworks like PyTorch, TensorFlow, and Langchain aiming to bridge the gap between human and AI emotional cognition abilities. Prior to my current work, I conducted research on a sub-area of Human Computer Interaction (HCI), specifically studying smart home technology acceptance.
 
