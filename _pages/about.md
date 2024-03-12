@@ -50,4 +50,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found at [ICT](https://ict.usc.edu/research/labs-groups/affective-computing/).
+More info can be found at [ICT](https://ict.usc.edu/research/labs-groups/affective-computing/).
