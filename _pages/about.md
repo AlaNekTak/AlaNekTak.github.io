@@ -9,8 +9,8 @@ redirect_from:
 
 ## About Me
 
-I’m **Ala N. Tak**, a Computer Science Ph.D. candidate at the **University of Southern California** (GPA 4.0/4.0).  
-My research combines **Large Language Models (LLMs)**, **mechanistic interpretability**, **safety alignment and psychological steering**, **agentic workflows**, and **human–computer interaction (HCI)**.  
+I’m **Ala N. Tak**, a Computer Science Ph.D. candidate at the **University of Southern California**.  
+My research combines **Large Language Models (LLMs)**, **mechanistic interpretability**, **safety alignment**, **model steering**, **agentic workflows**, and **human–computer interaction (HCI)**.  
 I build LLM-based systems that are emotionally aware, interpretable, and aligned for safe interaction.
 
 ---
@@ -21,16 +21,12 @@ I build LLM-based systems that are emotionally aware, interpretable, and aligned
 - **Aug 2025** — Wrapped up my internship at Visa Research, delivering a scalable **agentic RAG platform** for enterprise business intelligence.  
 - **Jul 2025** — **Poster Presentation:** *Mechanistic Interpretability of Emotion Inference in LLMs* accepted at **ACL 2025**.  
 - **Jul 2025** — **Workshop Organization:** Serving as on-site host for the [**3rd Workshop on Social Influence in Conversations (SICon)**](https://aclanthology.org/2025.sicon-1.0/) at ACL 2025, Vienna.
-- **Jul 10, 2025** — **Essay Published:** [*How Language Models Form Social Impressions (and What That Reveals)*](https://ict.usc.edu/news/essays/how-language-models-form-social-impressions-and-what-that-reveals/) on ICT News.   
+- **Jul 2025** — **Essay Published:** [*How Language Models Form Social Impressions (and What That Reveals)*](https://ict.usc.edu/news/essays/how-language-models-form-social-impressions-and-what-that-reveals/) on ICT News.   
 - **Jun 2025** — **Paper Accepted:** *Social Impression Formation in LLMs* accepted at **CoLM 2025**.  
 - **Jun 2025** — **Paper Accepted:** *Aware yet Biased: Investigating Emotional Reasoning and Appraisal Bias in LLMs* accepted at **IEEE T-AFFC 2025**.  
 - **Jun 2025** — **Essay Published:** [*Investigating Emotional Reasoning and Appraisal Bias in LLMs*](https://ict.usc.edu/news/essays/investigating-emotional-reasoning-and-appraisal-bias-in-llms/) on ICT News.  
 
 ---
-
-## For More Information
-
-More details can be found at the [USC ICT Affective Computing Lab](https://ict.usc.edu/research/labs-groups/affective-computing/).
 
 <!-- A data-driven personal website
 ======
