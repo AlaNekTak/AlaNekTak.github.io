@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I’m **Ala N. Tak**, a Computer Science Ph.D. candidate at the **University of Southern California**.  
+I’m Ala, a Computer Science Ph.D. candidate at the **University of Southern California**.  
 My research combines **Large Language Models (LLMs)**, **mechanistic interpretability**, **safety alignment**, **model steering**, **agentic workflows**, and **human–computer interaction (HCI)**.  
 I build LLM-based systems that are emotionally aware, interpretable, and aligned for safe interaction.
 
@@ -63,6 +63,6 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) -->
 
-For more info
+For More Information
 ------
 More info can be found at [ICT](https://ict.usc.edu/research/labs-groups/affective-computing/).
