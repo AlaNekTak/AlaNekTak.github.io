@@ -6,7 +6,7 @@ permalink: /talks/talk-3
 venue: "Association for Computational Linguistics (ACL 2025)"
 date: 2025-07-27
 Publisher: "arXiv"
-DOI: "[https://arxiv.org/abs/2408.13718](https://doi.org/10.18653/v1/2025.findings-acl.679)"
+DOI: "[https://doi.org/10.18653/v1/2025.findings-acl.679]"
 location: "Vienna, Austria"
 ---
 
