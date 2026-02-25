@@ -16,8 +16,8 @@ I build LLM-based systems that are emotionally aware, interpretable, and aligned
 ---
 
 ## News
-
-- **Aug 2025** — **In Progress:** *Psychological Steering in LLMs: Effectiveness & Trustworthiness* (Targeting NAACL 2026).
+- **Jan 2026** — **Submitted to ICML2026:** [*Sparks of Rationality: Do Reasoning LLMs Align with Human Judgment and Choice?*](https://arxiv.org/abs/2601.22329).
+- **Nov 2025** — **Submitted to ARR:** [*Psychological Steering in LLMs: Effectiveness & Trustworthiness*](https://arxiv.org/abs/2510.04484).
 - **Aug 2025** — Wrapped up my internship at Visa Research, delivering a scalable **agentic RAG platform** for enterprise business intelligence.  
 - **Jul 2025** — **Poster Presentation:** *Mechanistic Interpretability of Emotion Inference in LLMs* accepted at **ACL 2025**.  
 - **Jul 2025** — **Workshop Organization:** Serving as on-site host for the [**3rd Workshop on Social Influence in Conversations (SICon)**](https://aclanthology.org/2025.sicon-1.0/) at ACL 2025, Vienna.
