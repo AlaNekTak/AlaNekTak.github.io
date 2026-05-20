@@ -15,10 +15,13 @@ I build LLM-based systems that are emotionally aware, interpretable, and aligned
 
 ---
 
+
 ## News
-- **Jan 2026** — **Submitted to ARR2026:** [*Sparks of Rationality: Do Reasoning LLMs Align with Human Judgment and Choice?*](https://arxiv.org/abs/2601.22329).
+- **May 2026** — Joined **Amazon AGI Labs** (HCI Team) in San Francisco as a **Member of Technical Staff Intern**, working on cognitively aligned AI for seamless human interaction.
+- **May 2026** — **Submitted to ARR2026:** [*Sparks of Rationality: Do Reasoning LLMs Align with Human Judgment and Choice?*](https://arxiv.org/abs/2601.22329).
+- **Jan 2026** — Joined **Honda Research Institute (HRI)** in San Jose as a **Research Associate Intern**, working on human-grounded analysis of LLM group collaboration.
 - **Nov 2025** — **Paper Accepted:** [*Psychological Steering in LLMs: Effectiveness & Trustworthiness*] accepted at **ACL 2026**.
-- **Aug 2025** — Wrapped up my internship at Visa Research, delivering a scalable **agentic RAG platform** for enterprise business intelligence.  
+- **Aug 2025** — Completed my internship at Visa Research, delivering a scalable **agentic RAG platform** for enterprise business intelligence.  
 - **Jul 2025** — **Poster Presentation:** *Mechanistic Interpretability of Emotion Inference in LLMs* accepted at **ACL 2025**.  
 - **Jul 2025** — **Workshop Organization:** Serving as on-site host for the [**3rd Workshop on Social Influence in Conversations (SICon)**](https://aclanthology.org/2025.sicon-1.0/) at ACL 2025, Vienna.
 - **Jul 2025** — **Essay Published:** [*How Language Models Form Social Impressions (and What That Reveals)*](https://ict.usc.edu/news/essays/how-language-models-form-social-impressions-and-what-that-reveals/) on ICT News.   
